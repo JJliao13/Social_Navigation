@@ -1,4 +1,3 @@
 # Social_Navigation
-Code and data for the research of social navigation
+Code and behavioral data for the research of social navigation task
 
-Hello world.
